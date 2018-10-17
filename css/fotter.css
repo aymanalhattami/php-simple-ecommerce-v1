@@ -1,0 +1,119 @@
+#fotter
+{
+    text-align: center; 
+    /*border: 1px solid black;*/
+}
+
+#fotter h3
+{
+    font-size: 40px;
+}
+
+#fotter p
+{
+    color: #c3aa95;
+}
+
+#fotter form input
+{
+    padding: 15px;
+}
+
+#fotter form #submit
+{
+    background-color: #facccc;
+    width: 150px;
+    font-size: 13px;
+}
+
+#fotter form #submit:hover
+{
+    background-color: black;
+    transition: 0.6s;
+    color: white;
+}
+
+
+#fotter form #text
+{
+    width: 400px;
+}
+/*
+#menue1 ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+    float: left;
+}
+
+#menue1
+{
+    width: 900px;
+    /*border: 1px solid green;
+    min-height: 70px;
+    float: left;
+}
+
+#menue1 ul li a
+{
+    text-decoration: none;
+    color: #1a1a1a;
+  display: block;
+  margin: 10px 10px;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: 5px;
+
+}
+
+#menue1 ul li a:hover
+{
+    color:#F9D9BE;
+    transition: 0.5s;
+    
+}
+*/
+#contact
+{
+    border: 1px solid blue;
+    width: 150px;
+    height: 70px;
+    float: left;
+    margin-left: 50px;
+}
+
+#contact ul li
+{   
+   list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+
+#copy
+{
+    margin-left: 400px;
+    /*border: 1px solid blue;*/
+    width: 450px;
+    height: 30px;
+}
+
+#copy a
+{
+    color: #f5c0c0;
+}
+
+#copy a:hover
+{
+    color: black;
+    transition: 0.6s;
+}
+
+#menue1-contact {
+    width: 1130px;
+    /*border: 1px dotted orange;*/
+    height: 70px;
+    margin-left: 50px;
+
+}

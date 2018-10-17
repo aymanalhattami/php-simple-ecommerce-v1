@@ -1,0 +1,549 @@
+body
+{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#container1 {
+    width: auto;
+     margin-top: 5%;
+    /*border: 1px solid red;*/
+    margin-bottom: 20px;
+    height: 1050px;
+}
+
+#side1 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/w1.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 96px;
+}
+
+#side1 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side1 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side1 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side1 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side1 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+#side2 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/w2.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;
+}
+
+#side2 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side2 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+#side2 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side2 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side2 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+
+#side3 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/w3.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;
+}
+
+#side3 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side3 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side3 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side3 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side3 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side4 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph1.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 96px;
+    margin-top: 4%;
+}
+
+#side4 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side4 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side4 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side4 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side4 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side5 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph2.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;;
+    margin-top: 4%;
+}
+
+#side5 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side5 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side5 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side5 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side5 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side6 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph3.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;
+    margin-top: 4%;
+}
+
+#side6 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side6 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side6 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side6 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side6 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side7 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph4.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 96px;
+    margin-top: 4%;
+}
+
+#side7 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side7 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side7 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side7 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side7 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side8 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph5.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;
+    margin-top: 4%;
+}
+
+#side8 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side8 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side8 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side8 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side8 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#side9 {
+    width: 27%;
+    min-height: 290px;
+    /*border: 1px solid red;*/
+    background-image: url("../image/ph6.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 32px;
+    margin-top: 4%;
+}
+
+#side9 h1
+{
+    font-size: 52px;
+    font-style: italic;
+  font-weight: 300;
+  line-height: 50px;
+      text-transform: uppercase;
+    margin-left: 3px;
+    margin-top: 0px;
+}
+
+#side9 p
+{
+    width: 100px;
+    /*border: 1px solid green;*/
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    background-color: #F9D9BE;
+}
+
+#side9 p:hover
+{
+    background-color: black;
+    color: white;
+}
+
+#side9 p a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#side9 p a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+#welcome {
+    width: 1200px;
+    /*border: 1px solid red;*/
+    margin-top: 100px;
+    min-height: 250px;
+    text-align: center;
+    margin: auto;
+
+}
+
+#welcome h1
+{
+    color: #000;
+  font-size: 69px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+}
+
+#welcome p
+{
+   color: #999;
+   font-size: 1.1em;
+}
+
+#photo1
+{
+    margin-left: 25px;
+}
+
+#photo1 a img
+{
+    transition: opacity 1s;
+}
+
+#photo1 a img:hover
+{
+    opacity: 0.5;
+}
+
+#moreDetail {
+    text-decoration: none;
+    color: blue;
+}
+
+#moreDetail:hover
+{
+    color: #f84a4a;
+    transition: 0.5s;
+}

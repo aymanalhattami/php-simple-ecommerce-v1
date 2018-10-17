@@ -1,0 +1,24 @@
+
+#payment {
+    width: 500px;
+    height: 250px;
+    /*border: 1px solid red;*/
+    margin: auto;
+    margin-left: 420px;
+}
+
+#online {
+    margin-left: 100px;
+}
+
+#submit1 {
+    width: 100px;
+    margin-left: 100px;
+    border: 1px solid brown;
+}
+
+#reset1 {
+    width: 100px;
+    margin-left: 20px;
+    border: 1px solid brown;
+}

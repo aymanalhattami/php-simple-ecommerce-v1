@@ -1,0 +1,73 @@
+
+#login {
+    width: 600px;
+    /*border: 1px solid blue;*/
+    text-transform: uppercase;
+    float: left;
+}
+
+#login form input
+{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#login form #submit
+{
+    width: 70px;
+    background-color: #fad4af;
+    padding: 8px;
+}
+
+#login form #submit:hover
+{
+    background-color: black;
+    color: white;
+    transition: 0.7s;
+}
+
+
+#side {
+    width: 340px;
+    margin-left: 0px;
+    float: left;
+    /*border: 1px solid green;*/
+    background-color: #E9EFF5;
+    margin-left: 0px;
+}
+
+#side a
+{
+  text-decoration: none;
+  color: #000;
+  padding: 7px 20px;
+  background: #F9D9BE;
+  text-align: center;
+  display: block;
+  border-radius: 4px;
+}
+
+#side #accounting:hover
+{
+    color: white;
+    background-color: black;
+    transition: 0.6s;
+}
+
+#container
+{
+    width: 1200px;
+    /*border: 1px solid green;*/
+    min-height: 600px;
+    margin-top: 20px;
+}
+
+
+
+#cheking {
+    float: left;
+    width: 610px;
+    /*border: 1px solid blue;*/
+    height: 400px;
+    margin-left: 150px;
+}

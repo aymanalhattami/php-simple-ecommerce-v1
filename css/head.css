@@ -1,0 +1,183 @@
+body
+{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+#header {
+    /*border:1px solid red;*/
+    background-image: url("../image/3.jpg");   
+    min-height: 800px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 1330px;
+    border: 1px solid red;
+
+}
+
+#clear
+{
+    height: 1px;
+    width: 1000px;
+    clear: both;
+}
+
+#search {
+    margin-left: 48px;
+    margin-top: 30px;
+    float: left;
+    margin-right: 30px;
+    /*border: 1px solid white;*/
+    width: 240px;
+}
+
+
+#account {
+    float: left;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 650px;
+    /*border: 1px solid white;*/
+    width: 140px;
+    margin-top: 23px;
+    border-right: 1px solid white;
+    padding: 7px 0
+}
+
+#cart {
+    margin-left: 20px;
+    /*border: 1px solid white;*/
+    width: 120px;
+    display: inline-block;
+    
+    
+}
+
+
+
+#carttttt {
+   
+    color: white;
+    float: left;
+    margin-top: 32px;
+    /*border: 1px solid white;*/
+}
+
+#cart a img
+{
+   
+    width: 80px;
+    float: left;
+}
+
+
+#account a{
+   color: white;
+    text-decoration: none;
+}
+
+#account a:hover{
+   color: #fb5c22;
+      transition: 1.0s;
+}
+
+/*#menue1 {
+    width: 600px;
+    /*border: 1px solid black;
+    margin: auto;
+}
+
+#menue1 ul 
+{
+    
+}
+
+#menue1 ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#menue1 ul li a
+{
+    text-decoration: none;
+    color: #1a1a1a;
+  display: block;
+  margin: 10px 20px;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: 5px;
+
+}
+
+#menue1 ul li a:hover
+{
+    color:#F9D9BE;
+    
+}*/
+
+
+#logo
+{
+    height: 100px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 50px;
+    /*border: 1px solid white;*/
+    text-transform: uppercase;
+    
+}
+
+#logo h1 a
+{
+    font-size: 96px;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 5px;
+    
+}
+
+#menu {
+    direction: rtl;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 0px;
+    padding: 0px;
+    /*border: 1px solid white;*/
+    width: 770px;
+    float: right;
+    margin-top: 0px;
+}
+
+#menu ul li 
+{ 
+    display: inline-block;
+    margin-right: 0px;
+    margin-top: 0px;
+    transition: opacity 1s;
+    /*border: 1px solid white;*/
+}
+
+#menu ul li a
+{
+    margin: 0px;
+    /*transition: opacity 5s;*/
+    font-size: 20px;
+    padding: 5px 20px;
+    /*word-spacing: 300px;*/
+    color: #fff;
+    text-decoration: none;
+}
+
+#menu ul li a:hover
+{
+    color: #000;
+    background-color: #fad4af;
+    transition: 1.0s;
+    opacity: 0.5;
+}
+
+
+

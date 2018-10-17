@@ -1,0 +1,40 @@
+
+#create-account {
+    width: 450px;
+    min-height: 200px;
+    margin-top: 50px;
+    margin-left: 450px;
+    padding-bottom: 5px;
+}
+
+#create-account input
+{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#new
+{
+    margin-left: 100px;
+}
+
+#submitted
+{
+    width: 170px;
+    margin-left: 150px;
+    background-color: #facccc;
+}
+#famle {
+    margin-left: 68px;
+    border: 1px solid green;
+    color: red;
+}
+
+#country {
+    margin-left: 10px;
+}
+
+#choose {
+    margin-left: 38px;
+    border-left: 1px solid black;
+}
